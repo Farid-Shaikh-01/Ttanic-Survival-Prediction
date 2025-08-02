@@ -49,7 +49,7 @@ I used the famous **Titanic dataset** from the `seaborn` library (similar to Kag
 📊 **Confusion Matrix Preview**:  
 *(Taken from actual output)*
 
-![Confusion Matrix](images/)
+![Confusion Matrix](images/confusion_matrix.jpg)
 
 > The model performs very well at predicting survivors and non-survivors, with good balance across metrics.
 
