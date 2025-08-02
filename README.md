@@ -95,6 +95,7 @@ pip install -r requirements.txt
 👨‍💻 Author
 
 Farid Shaikh
+
 Machine Learning Learner | Turning Data into Decisions
 🔗 [LinkedIn Profile (https://www.linkedin.com/in/farid-shaikh-937734338)]
 
