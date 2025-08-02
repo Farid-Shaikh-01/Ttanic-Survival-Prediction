@@ -53,7 +53,15 @@ I used the famous **Titanic dataset** from the `seaborn` library (similar to Kag
 
 > The model performs very well at predicting survivors and non-survivors, with good balance across metrics.
 
----
+📂 Project Structure
+
+Titanic-Survival-Prediction/
+├── titanic_survival_prediction.ipynb
+├── titanic_model.pkl
+├── requirements.txt
+├── README.md
+└── images/
+    └── confusion_matrix.png
 
 ## 💾 Model Saving & Loading
 
