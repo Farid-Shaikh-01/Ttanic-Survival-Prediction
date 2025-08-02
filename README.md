@@ -8,7 +8,7 @@ This project uses a clean pipeline with preprocessing, Random Forest Classifier,
 
 ## 📊 Dataset Overview
 
-We used the famous **Titanic dataset** from the `seaborn` library (similar to Kaggle's version).
+I used the famous **Titanic dataset** from the `seaborn` library (similar to Kaggle's version).
 
 **Features Used**:
 - `pclass` - Passenger Class (1st, 2nd, 3rd)
